@@ -1,4 +1,4 @@
-# NILM-Thesis-Work
+# Reinforcement-Learning-based-Demand-Response-using-NILM--Thesis-Work 
 Non Intrustive Load Monitoring
 
 For my thesis "Reinforcement Learning Based Demand Response", the objective is recommendation for the household electical load to 
